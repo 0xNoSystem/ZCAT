@@ -52,4 +52,12 @@ main{
     .lib{
         flex-direction: column;
     }
+
+    .header{
+        transform: scale(0.7);
+    }
+
+    .info{
+        transform: scale(0.8);
+    }
 }
